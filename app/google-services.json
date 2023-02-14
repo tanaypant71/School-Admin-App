@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977401136711",
+    "project_id": "school-admin-app-a94c2",
+    "storage_bucket": "school-admin-app-a94c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977401136711:android:babc6ccd17a322c27b9362",
+        "android_client_info": {
+          "package_name": "com.example.schooladminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977401136711-4vl795q1qopicifrq4oelft4sii1qnjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5IskIkPMxGhFvffOU2xBcNVJTLTFPEIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977401136711-4vl795q1qopicifrq4oelft4sii1qnjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
